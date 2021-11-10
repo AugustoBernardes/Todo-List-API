@@ -1,6 +1,5 @@
 # Todo-List-API
-This is a API to Todo lists apps , with function add task , change the done status and delete the task.
+This is a API to Todo lists apps , with all the functions a todo need, like add , edit , delete .
 
->Status: Finished ✔️
+>Status: Developing 🛠
 
-## Tomorrow i will make the readme to explain every thing!!
