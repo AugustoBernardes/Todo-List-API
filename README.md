@@ -5,10 +5,10 @@ This is a API to Todo lists apps , with all the functions a todo need, like add 
 
 ---
 ## Routes 
-+ ```/``` , Show all the tasks
-+ ```/addtask``` , Add a new task  
-+ ```/updatetask/:id``` , Change the task status (done or not)
-+ ```/deletetask/:id``` , Delete the task
++ ```/``` , Show all the tasks.
++ ```/addtask``` , Add a new task  .
++ ```/updatetask/:id``` , Change the task status (done or not).
++ ```/deletetask/:id``` , Delete the task.
 ---
 ## Observations 
 + Use npm install to dowload all the dependencies
